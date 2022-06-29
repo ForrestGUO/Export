@@ -587,7 +587,7 @@
   } , {
       "id": "dsmc",
   "name": "都世牧场",
-  "keys": ["d353b74fbac8c53b76d044b7204d442f","dsmctk2","dsmctk3","dsmctk4", "dsmctk5","dsmctk6"],
+  "keys": ["'d353b74fbac8c53b76d044b7204d442f'","dsmctk2","dsmctk3","dsmctk4", "dsmctk5","dsmctk6"],
   "settings": [{
     "id": "dsmcstatus",
     "name": "当前账号数",
